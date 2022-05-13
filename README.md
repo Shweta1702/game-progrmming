@@ -1,5 +1,5 @@
 # game-progrmming
-Game developed in Unity .Game developed by Acetriviva.
+Game developed in Unity .Game developed by Acetrivia.
  Group Members:
 122107 Shweta Mahajan,
 120833 Bret Carrie,
